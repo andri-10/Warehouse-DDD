@@ -76,7 +76,6 @@ public class User {
         return isSystemAdmin();
     }
 
-
     public UserId getUserId() {
         return userId;
     }
